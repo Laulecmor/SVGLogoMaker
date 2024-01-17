@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^29.7.0"
+    },
+    "name": "SVGLogoMaker",
+    "description": "Object-oriented Programming Challenge",
+    "version": "1.0.0",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib",
+      "test": "test"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "jest"
+    }
+  }
