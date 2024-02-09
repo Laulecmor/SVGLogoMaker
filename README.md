@@ -4,7 +4,6 @@ Object-oriented Programming Challenge
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
-- [Example] (#example)
 - [Questions](#questions)
 
 ## Installation Instructions
