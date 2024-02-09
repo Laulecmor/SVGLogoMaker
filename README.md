@@ -20,6 +20,7 @@ Object-oriented Programming Challenge
 ## Example and Walkthrough Video 
 
 
+<img width="283" alt="Screenshot 2024-02-09 at 1 50 26 PM" src="https://github.com/Laulecmor/SVGLogoMaker/assets/92830894/5da6c747-45a8-41e0-a197-df410c4817c4">
 
 ## Questions
 Contact me for any further questions or help!
